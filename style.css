@@ -3,6 +3,7 @@
     padding: 0%;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
+    background-color:rgb(142, 215, 218);
 
 }
 section{
@@ -45,7 +46,7 @@ section header ul li button{
     border: none; 
     outline: none;
     border-radius: 4px;
-    background-color: #4584ef;
+    background-color: #080909;
     color: #ffff;
     font-size: 14px;
     font-weight: bold;
@@ -73,7 +74,7 @@ section .main .search-box .search{
     padding-left: 45px;
     padding-right: 60px;
     border-radius: 30px;
-    border: 1px solid #ccc;
+    border: 2px solid #e5e5e5;
     outline: none;
     font-size: 16px;
 
@@ -99,7 +100,7 @@ section .main .search-box .search{
 .buttons button{
     margin: 10px;
     padding: 10px 20px;
-    color: #555;
+    color: #000000;
     font-size: 14px;
     border: none;
     border-radius: 1px solid transparent;
@@ -120,7 +121,7 @@ section footer{
     left: 0;
     width: 100%;
     height: 30px;
-    background: #ccc;
+    background: #000000;
 
 }
 section footer .row{
