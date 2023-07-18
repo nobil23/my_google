@@ -90,9 +90,11 @@ section .main .search-box .search{
 
 }
 .icon-2{
-    margin-bottom: 9px;
+    margin-bottom: 12px;
     margin-left: 500px;
 }
+
+
 
 .buttons button{
     margin: 10px;
